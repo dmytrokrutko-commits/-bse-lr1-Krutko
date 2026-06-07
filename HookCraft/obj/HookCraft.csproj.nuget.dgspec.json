@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\Hookcraft\\HookCraft.csproj": {}
+    "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\HookCraft\\HookCraft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\Hookcraft\\HookCraft.csproj": {
+    "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\HookCraft\\HookCraft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\Hookcraft\\HookCraft.csproj",
+        "projectUniqueName": "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\HookCraft\\HookCraft.csproj",
         "projectName": "HookCraft",
-        "projectPath": "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\Hookcraft\\HookCraft.csproj",
+        "projectPath": "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\HookCraft\\HookCraft.csproj",
         "packagesPath": "C:\\Users\\dima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\Hookcraft\\obj\\",
+        "outputPath": "C:\\Users\\dima\\Desktop\\MyProjects\\lb3\\bse-lr1-Krutko\\HookCraft\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
