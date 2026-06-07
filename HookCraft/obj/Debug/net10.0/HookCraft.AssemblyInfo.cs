@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HookCraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c29869e7d6a00f0c0fa9c20b8472933d0724a8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a17a2cbe1610f9b50e3af4c34ac69c5a87dbe53")]
 [assembly: System.Reflection.AssemblyProductAttribute("HookCraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HookCraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
