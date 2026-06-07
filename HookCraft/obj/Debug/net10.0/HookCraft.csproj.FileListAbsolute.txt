@@ -1,0 +1,15 @@
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\HookCraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\HookCraft.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\HookCraft.AssemblyInfo.cs
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\HookCraft.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\HookCraft.sourcelink.json
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\bin\Debug\net10.0\HookCraft.exe
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\bin\Debug\net10.0\HookCraft.deps.json
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\bin\Debug\net10.0\HookCraft.runtimeconfig.json
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\bin\Debug\net10.0\HookCraft.dll
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\bin\Debug\net10.0\HookCraft.pdb
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\HookCraft.dll
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\refint\HookCraft.dll
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\HookCraft.pdb
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\HookCraft.genruntimeconfig.cache
+C:\Users\dima\Desktop\MyProjects\lb3\bse-lr1-Krutko\Hookcraft\obj\Debug\net10.0\ref\HookCraft.dll
